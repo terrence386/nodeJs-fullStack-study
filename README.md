@@ -1,1 +1,4 @@
-"# nodeJs-fullStack-study" 
+# 拖库 数据库
+# 数据库不存 明文密码
+
+# md5 签名算法
